@@ -1,0 +1,5 @@
+name: BetterFurnace
+version: '${project.version}'
+main: me.darkwinged.BetterFurnace.Main
+api-version: 1.19
+authors: [ darkwinged ]
